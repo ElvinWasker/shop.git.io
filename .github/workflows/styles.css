@@ -1,0 +1,32 @@
+html{
+    margin:0%;
+    padding:0px;
+}
+.head{
+    color:white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0%;
+    padding:10px;
+}
+.about{
+    color:rgb(26, 50, 50);
+    background-color: bisque;
+}
+p{
+    text-align: center;
+}
+.img{
+    height: 300px;
+    width: 300px;
+}
+.ligma{
+    color: brown;
+}
+.wata{
+    color:#Ebd3f8;
+}
+.img-1{
+    height: 300px;
+    width: 500px;
+}
