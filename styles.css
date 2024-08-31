@@ -9,6 +9,9 @@
     margin:0%;
     padding:10px;
 }
+.head:hover{
+     background-color: gray;
+}
 .about{
     color:rgb(26, 50, 50);
     background-color: bisque;
